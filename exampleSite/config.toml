@@ -20,7 +20,7 @@ copyright = ""
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = "0"
+weight = "2"
 [Languages.fr.menu]
 main = []
 [params]
