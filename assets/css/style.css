@@ -419,6 +419,10 @@ a:hover {
   color: #57cbcc;
 }
 
+.navbar-toggler {
+  display: none;
+}
+
 .navbar-toggler:focus {
   outline: 0;
 }
