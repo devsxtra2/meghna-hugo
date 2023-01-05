@@ -67,3 +67,4 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-twitter-alt"
+link = "https://twitter.com/0xXtra"
