@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/banner-2.webp"
-  bg_image: "/images/banner-2.jpg"
+  bg_image_webp: "/images/banner-1.webp"
+  bg_image: "/images/banner-1.jpg"
   icon: ''
   title: XTRA Fantasy Pyramid
   content: Free-to-mint NFT collection of digital pyramids which have countless XtraOrdinary
