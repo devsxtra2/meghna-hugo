@@ -1527,8 +1527,8 @@ input#e-mail,
   background-color: #26292e;
   border: 1px solid transparent;
   display: block;
-  height: 70px;
-  width: 70px;
+  height: 50px;
+  width: 50px;
   transition: all 400ms ease-out 0s;
 }
 
@@ -1545,7 +1545,7 @@ input#e-mail,
   color: #55606a;
   display: inline-block;
   font-size: 32px;
-  line-height: 70px;
+  line-height: 50px;
   margin: 0;
   opacity: 0.3;
   transition: all 400ms ease-out 0s;
