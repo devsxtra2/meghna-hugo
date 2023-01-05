@@ -1508,7 +1508,7 @@ input#e-mail,
   Footer section
 ==================================================================*/
 .social-icon {
-  padding: 60px 0 35px;
+  padding: 10px 0 10px;
 }
 
 .social-icon ul {
@@ -1550,6 +1550,7 @@ input#e-mail,
 .copyright {
   padding: 20px 0;
   color: #fff;
+  display: none;
 }
 
 .copyright img {
